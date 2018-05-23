@@ -73,8 +73,7 @@ public class Wrapper_Pagefactory {
 	ologger.endTest();
 	}
 	
-	public static void print2(){
-		System.out.println("My Name is Prasanth");
+	public static void print() {
+		System.out.println("My Name is Kamatchi");
 	}
-
 }
