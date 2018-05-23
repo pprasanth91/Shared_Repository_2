@@ -72,6 +72,11 @@ public class Wrapper_Pagefactory {
 		}
 	ologger.endTest();
 	}
+	
+	public static void print() {
+		System.out.println("My Name is Kamatchi");
+	}
 
+	
 
 }
