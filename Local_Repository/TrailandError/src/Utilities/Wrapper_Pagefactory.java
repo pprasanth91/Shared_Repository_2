@@ -74,6 +74,6 @@ public class Wrapper_Pagefactory {
 	}
 	
 	public static void print() {
-		System.out.println("My Full Name is Prasanth Prabhakaran");
+		System.out.println("My Name is Kamatchi");
 	}
 }
